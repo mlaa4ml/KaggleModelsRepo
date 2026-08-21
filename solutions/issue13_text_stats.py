@@ -117,7 +117,7 @@ def run_self_test() -> bool:
             print("  -", f)
         return False
 
-    print("SELF-TEST OK: все проверки пройдены")
+    print("SELF-TEST OK: 12/12 проверок пройдено")
     return True
 
 
